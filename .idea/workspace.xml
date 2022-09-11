@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info  leetCode 09回文数">
-      <change afterPath="$PROJECT_DIR$/easy/src/Nun13_romanToInt.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info  leetCode 20.有效的括号">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/Num20_isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/Num20_isValid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Nun13_romanToInt">
+  <component name="RunManager" selected="Application.Num20_isValid">
     <configuration name="Num09_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num09_isPalindrome" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num20_isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num20_isValid" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num20_isValid" />
         <item itemvalue="Application.Nun13_romanToInt" />
         <item itemvalue="Application.Num09_isPalindrome" />
         <item itemvalue="Application.aa" />
@@ -86,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662864308985</updated>
-      <workItem from="1662864310078" duration="1757000" />
+      <workItem from="1662864310078" duration="6063000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -109,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662865063804</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="info  leetCode 13罗马数字转整数">
+      <created>1662866459343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662866459343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="info  leetCode 20.有效的括号">
+      <created>1662868457438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662868457438</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="info" />
     <MESSAGE value="info  leetCode 09回文数" />
-    <option name="LAST_COMMIT_MESSAGE" value="info  leetCode 09回文数" />
+    <MESSAGE value="info  leetCode 13罗马数字转整数" />
+    <MESSAGE value="info  leetCode 20.有效的括号" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  leetCode 20.有效的括号" />
   </component>
 </project>
