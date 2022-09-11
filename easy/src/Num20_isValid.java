@@ -32,12 +32,35 @@ public class Num20_isValid {
         return true;
     }
 
+    public static boolean isValid_2(String s) {
+        char[] str = s.toCharArray();
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < str.length; i++) {
+            switch (str[i]) {
+                case '(' : stack.push(')');break;
+                case '[' : stack.push(']');break;
+                case '{' : stack.push('}');break;
+                default : {
+                    if (stack.isEmpty() || str[i] != stack.peek()) {
+                        return false;
+                    } else {
+                        stack.pop();break;
+                    }
+                }
+            }
+        }
+        return stack.isEmpty();
+    }
+
     public static void main(String[] args) {
         String str = "()[]{}";
         System.out.println(isValid(str));
+        System.out.println(isValid_2(str));
         System.out.println(isValid("(]}"));
+        System.out.println(isValid_2("(]}"));
         System.out.println(isValid("(){{{{"));
-        System.out.println(isValid("[(){}]"));
+        System.out.println(isValid_2("(){{{{"));
         System.out.println(isValid("}[(){}]"));
+        System.out.println(isValid_2("}[(){}]"));
     }
 }
