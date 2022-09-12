@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode 69.x的平方根">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/Num21_mergeTwoLists.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode 26. 删除有序数组中的重复项">
+      <change afterPath="$PROJECT_DIR$/easy/src/Num14_longestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +49,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Num21_mergeTwoLists">
-    <configuration name="Num09_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num09_isPalindrome" />
+  <component name="RunManager" selected="Application.Num14_longestCommonPrefix">
+    <configuration name="Num14_longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num14_longestCommonPrefix" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num26_removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num26_removeDuplicates" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Num69_mySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num69_mySqrt" />
       <module name="easy" />
@@ -79,20 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nun13_romanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nun13_romanToInt" />
-      <module name="easy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num14_longestCommonPrefix" />
+        <item itemvalue="Application.Num26_removeDuplicates" />
         <item itemvalue="Application.Num21_mergeTwoLists" />
         <item itemvalue="Application.Num69_mySqrt" />
         <item itemvalue="Application.Num20_isValid" />
-        <item itemvalue="Application.Nun13_romanToInt" />
-        <item itemvalue="Application.Num09_isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +107,7 @@
       <workItem from="1662960106289" duration="11000" />
       <workItem from="1662974064558" duration="6167000" />
       <workItem from="1662987684161" duration="122000" />
-      <workItem from="1662987818129" duration="606000" />
+      <workItem from="1662987818129" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -173,7 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662984672494</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="info leetCode 21. 合并两个有序链表">
+      <created>1662988498767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662988498767</updated>
+    </task>
+    <task id="LOCAL-00011" summary="info leetCode 26. 删除有序数组中的重复项">
+      <created>1662989724779</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662989724779</updated>
+    </task>
+    <task id="LOCAL-00012" summary="info leetCode 26. 删除有序数组中的重复项">
+      <created>1662990002371</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662990002371</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,17 +216,8 @@
     <MESSAGE value="info  leetCode 20.有效的括号" />
     <MESSAGE value="info" />
     <MESSAGE value="info leetCode 69.x的平方根" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode 69.x的平方根" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/Num21_mergeTwoLists.java</url>
-          <line>118</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="info leetCode 21. 合并两个有序链表" />
+    <MESSAGE value="info leetCode 26. 删除有序数组中的重复项" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode 26. 删除有序数组中的重复项" />
   </component>
 </project>
