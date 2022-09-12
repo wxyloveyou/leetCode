@@ -5,10 +5,9 @@
  */
 public class Num26_removeDuplicates {
     public static int removeDuplicates(int[] nums) {
-        int[] arr = new int[nums.length];
         int index = 0;
 
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 1; i < nums.length; i++) {
             if (nums[i-1] != nums[i]) {
                 nums[++index] = nums[i];
             }
