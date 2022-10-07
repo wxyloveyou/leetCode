@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
-      <change afterPath="$PROJECT_DIR$/easy/src/Num35_searchInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_11_10_57_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_11_10_57__Changes_.xml" beforeDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info   leetcode 485. 最大连续 1 的个数">
+      <change afterPath="$PROJECT_DIR$/easy/src/Num70_climbStairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +48,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Num35_searchInsert">
+  <component name="RunManager" selected="Application.Num70_climbStairs">
     <configuration name="Num14_longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num14_longestCommonPrefix" />
       <module name="easy" />
@@ -80,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num69_mySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num69_mySqrt" />
+    <configuration name="Num70_climbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num70_climbStairs" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num70_climbStairs" />
         <item itemvalue="Application.Num35_searchInsert" />
         <item itemvalue="Application.Num14_longestCommonPrefix" />
         <item itemvalue="Application.Num26_removeDuplicates" />
         <item itemvalue="Application.Num21_mergeTwoLists" />
-        <item itemvalue="Application.Num69_mySqrt" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +110,7 @@
       <workItem from="1662991595420" duration="175000" />
       <workItem from="1663067885813" duration="6000" />
       <workItem from="1663076706587" duration="7000" />
-      <workItem from="1665142247150" duration="959000" />
+      <workItem from="1665142247150" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -213,7 +210,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662991674182</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="info  leetCode  35. 搜索插入位置">
+      <created>1665145830477</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665145830477</updated>
+    </task>
+    <task id="LOCAL-00016" summary="info  leetcode  495. 提莫攻击">
+      <created>1665145937411</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665145937411</updated>
+    </task>
+    <task id="LOCAL-00017" summary="info   leetcode 485. 最大连续 1 的个数">
+      <created>1665145958363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665145958363</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +257,9 @@
     <MESSAGE value="info leetCode 26. 删除有序数组中的重复项" />
     <MESSAGE value="info leetcode 14. 最长公共前缀" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info  leetCode  35. 搜索插入位置" />
+    <MESSAGE value="info  leetcode  495. 提莫攻击" />
+    <MESSAGE value="info   leetcode 485. 最大连续 1 的个数" />
+    <option name="LAST_COMMIT_MESSAGE" value="info   leetcode 485. 最大连续 1 的个数" />
   </component>
 </project>
