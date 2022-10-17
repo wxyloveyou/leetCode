@@ -66,13 +66,13 @@ public class Num628_maximumProduct {
 
     public static void main(String[] args) {
         int test = 10;
-//        for (int i = 0; i < test; i++) {
-//            int[] arr = generateRandomArray(5);
-        int[] arr = {-1,-2,-3};
+        for (int i = 0; i < test; i++) {
+            int[] arr = generateRandomArray(5);
             int ans = maximumProduct_1(arr);
             printArray(arr);
             System.out.println(ans);
             System.out.println("++++++++++++++++++++");
-//        }
+        }
+
     }
 }
