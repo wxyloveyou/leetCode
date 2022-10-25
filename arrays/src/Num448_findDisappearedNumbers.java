@@ -46,7 +46,7 @@ public class Num448_findDisappearedNumbers {
     }
 
     public static void main(String[] args) {
-        int[] arr = {};
+        int[] arr = {1,1};
         List<Integer> list = findDisappearedNumbers(arr);
         System.out.println(list);
 
