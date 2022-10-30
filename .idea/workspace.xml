@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode 442. 数组中重复的数据">
-      <change afterPath="$PROJECT_DIR$/arrays/src/Num41_firstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/Num453_minMoves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num41_firstMissingPositive">
+  <component name="RunManager" selected="Application.Num453_minMoves">
     <configuration name="Num41_firstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num41_firstMissingPositive" />
       <module name="LeetCode" />
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num628_maximumProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num628_maximumProduct" />
+    <configuration name="Num453_minMoves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num453_minMoves" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num453_minMoves" />
         <item itemvalue="Application.Num41_firstMissingPositive" />
         <item itemvalue="Application.Num442_findDuplicates" />
         <item itemvalue="Application.Num448_findDisappearedNumbers" />
         <item itemvalue="Application.Num645_findErrorNums" />
-        <item itemvalue="Application.Num628_maximumProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +122,7 @@
       <workItem from="1666083919015" duration="6115000" />
       <workItem from="1666101283204" duration="844000" />
       <workItem from="1666690127554" duration="7619000" />
+      <workItem from="1667140784797" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
