@@ -42,8 +42,7 @@ public class Num1111_maxDepthAfterSplit {
     public static void main(String[] args) {
         String s = "(()())()(()())";
         int[] ints = maxDepthAfterSplit(s);
-        for (int i:
-        ints){
+        for (int i : ints) {
             System.out.print(i + " ");
         }
     }
