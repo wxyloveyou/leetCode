@@ -3,13 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info  leetCode 921. 使括号有效的最少添加">
-      <change afterPath="$PROJECT_DIR$/hard/hard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/src/Num32_longestValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode 20.有效的括号">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/Num20_isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/Num20_isValid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,43 +52,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num32_longestValidParentheses">
+  <component name="RunManager" selected="Application.Num20_isValid">
+    <configuration name="Num09_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num09_isPalindrome" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num20_isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num20_isValid" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Num32_longestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num32_longestValidParentheses" />
       <module name="hard" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num41_firstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num41_firstMissingPositive" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num442_findDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num442_findDuplicates" />
-      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,13 +99,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num20_isValid" />
+        <item itemvalue="Application.Num09_isPalindrome" />
         <item itemvalue="Application.Num32_longestValidParentheses" />
         <item itemvalue="Application.Num665_checkPossibility" />
         <item itemvalue="Application.Num453_minMoves" />
-        <item itemvalue="Application.Num41_firstMissingPositive" />
-        <item itemvalue="Application.Num442_findDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +150,7 @@
       <workItem from="1667217440492" duration="12000" />
       <workItem from="1667227279143" duration="188000" />
       <workItem from="1667288645513" duration="861000" />
+      <workItem from="1667352020141" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -366,6 +385,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="info  leetCode 09回文数" />
@@ -390,7 +410,30 @@
     <MESSAGE value="info leetCode 665. 非递减数列" />
     <MESSAGE value="info" />
     <MESSAGE value="info  leetCode 921. 使括号有效的最少添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="info  leetCode 921. 使括号有效的最少添加" />
+    <MESSAGE value="info leetCode 20.有效的括号" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode 20.有效的括号" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="263" key="GridCell.Tab.0.bottom" timestamp="1667352472917">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472917" />
+    <state width="1340" height="263" key="GridCell.Tab.0.center" timestamp="1667352472916">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state width="1340" height="263" key="GridCell.Tab.0.left" timestamp="1667352472916">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state width="1340" height="263" key="GridCell.Tab.0.right" timestamp="1667352472916">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state x="610" y="321" key="SettingsEditor" timestamp="1667352822795">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="610" y="321" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1667352822795" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
