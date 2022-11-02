@@ -1,5 +1,3 @@
-import com.sun.deploy.security.CredentialManager;
-
 /**
  * leetCode 27. 移除元素
  */
