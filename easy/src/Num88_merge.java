@@ -3,6 +3,9 @@
  * @USER: WXY
  * @DATE: 2022/11/2 10:58
  * Info: 88. 合并两个有序数组
+ *
+ * 方式一：从小到大，需要开辟额外空间，下面的方式
+ * 凡是二：从大到小，直接放入nums1数组中，不需要额外开辟空间，没有写，
  */
 public class Num88_merge {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
