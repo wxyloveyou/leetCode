@@ -7,29 +7,14 @@ import java.util.Stack;
  */
 public class Num20_isValid {
     public static boolean isValid(String s) {
-        char[] str = s.toCharArray();
         Stack<Character> stack = new Stack<>();
-        char ch = ' ';
-        for (int i = 0; i < str.length; i++) {
-            if (str[i] == '(' || str[i] == '[' || str[i] == '{') {
-                stack.add(str[i]);
-            } else  {
-                if (stack.isEmpty() && ((str[i] == ')') || (str[i] == ']') || (str[i] == '}'))) {
-                    return false;
-                }
-                if ((!stack.isEmpty()) && ((str[i] == ')' && stack.peek() != '(') || (str[i] == ']' && stack.peek() != '[')||(str[i] == '}' && stack.peek() != '{'))) {
-                    stack.pop();
-                    return false;
-                }
-                if ((!stack.isEmpty()) && ((str[i] == ')' && stack.peek() == '(') || (str[i] == ']' && stack.peek() == '[')||(str[i] == '}' && stack.peek() == '{'))) {
-                    stack.pop();
-                }
-            }
+        for (char c : s.toCharArray()) {
+            if(c=='(')stack.push(')');
+            else if(c=='[')stack.push(']');
+            else if(c=='{')stack.push('}');
+            else if(stack.isEmpty()||c!=stack.pop())return false;
         }
-        if (!stack.isEmpty()) {
-            return false;
-        }
-        return true;
+        return stack.empty();
     }
 
     public static boolean isValid_2(String s) {
