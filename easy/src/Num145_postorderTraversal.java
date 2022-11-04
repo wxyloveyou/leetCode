@@ -3,14 +3,14 @@ import java.util.List;
 
 /**
  * @program: LeetCode
- * @ClassName Num_postorderTraversal
+ * @ClassName Num145_postorderTraversal
  * @description: LeetCode : 145. 二叉树的后序遍历
  * @author: WXY
  * @create: 2022-11-04 17:37
  * @Version 1.0
  **/
 
-public class Num_postorderTraversal {
+public class Num145_postorderTraversal {
     public class TreeNode {
         int val;
         TreeNode left;
