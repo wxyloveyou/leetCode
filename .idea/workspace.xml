@@ -22,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 260. 只出现一次的数字 III">
-      <change afterPath="$PROJECT_DIR$/easy/src/Num125_isPalindrome.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
+      <change afterPath="$PROJECT_DIR$/easy/src/Num_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +164,7 @@
       <workItem from="1667227279143" duration="188000" />
       <workItem from="1667288645513" duration="861000" />
       <workItem from="1667352020141" duration="794000" />
-      <workItem from="1667550123456" duration="2981000" />
+      <workItem from="1667550123456" duration="4199000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -404,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667552365659</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="info LeetCode : 125. 验证回文串">
+      <created>1667553724431</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1667553724431</updated>
+    </task>
+    <task id="LOCAL-00036" summary="info">
+      <created>1667553733094</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667553733094</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +437,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode 09回文数" />
     <MESSAGE value="info  leetCode 13罗马数字转整数" />
     <MESSAGE value="info  leetCode 20.有效的括号" />
     <MESSAGE value="info leetCode 69.x的平方根" />
@@ -443,43 +456,44 @@
     <MESSAGE value="info LeetCode 442. 数组中重复的数据" />
     <MESSAGE value="info leetCode 453. 最小操作次数使数组元素相等" />
     <MESSAGE value="info leetCode 665. 非递减数列" />
-    <MESSAGE value="info" />
     <MESSAGE value="info  leetCode 921. 使括号有效的最少添加" />
     <MESSAGE value="info leetCode 20.有效的括号" />
     <MESSAGE value="info leetCode 136. 只出现一次的数字" />
     <MESSAGE value="info LeetCode : 260. 只出现一次的数字 III" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 260. 只出现一次的数字 III" />
+    <MESSAGE value="info LeetCode : 125. 验证回文串" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1667552971129">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1667553559400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472917" />
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667552971129" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1667552971128">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559400" />
+    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1667553559399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667552971128" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1667552971128">
+    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559399" />
+    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1667553559399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667552971128" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1667552971128">
+    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559399" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1667553559400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667552971128" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559400" />
     <state x="308" y="183" key="SettingsEditor" timestamp="1667550683840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="610" y="321" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1667352822795" />
     <state x="308" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667550683840" />
-    <state x="1104" y="200" key="Vcs.Push.Dialog.v2" timestamp="1667552369553">
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2" timestamp="1667553738892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1667552369553" />
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1667553738892" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
