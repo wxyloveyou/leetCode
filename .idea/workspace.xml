@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode 13罗马数字转整数">
-      <change afterPath="$PROJECT_DIR$/arrays/src/Num283_moveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competition/competition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competition/src/class6229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competition/src/class6230.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info 竞赛318  class6230 超时了">
+      <change afterPath="$PROJECT_DIR$/easy/src/Num118_generate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,17 +54,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num283_moveZeroes">
-    <configuration name="Num283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num283_moveZeroes" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="Application.Num118_generate">
+    <configuration name="Num118_generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num118_generate" />
+      <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num32_longestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num32_longestValidParentheses" />
-      <module name="hard" />
+    <configuration name="Num283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num283_moveZeroes" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num118_generate" />
         <item itemvalue="Application.Num283_moveZeroes" />
         <item itemvalue="Application.class6230" />
         <item itemvalue="Application.class6229" />
         <item itemvalue="Application.Num_office017_printNumbers" />
-        <item itemvalue="Application.Num32_longestValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +133,7 @@
       <workItem from="1667561232959" duration="246000" />
       <workItem from="1667655930281" duration="1125000" />
       <workItem from="1667701782567" duration="7364000" />
-      <workItem from="1667725447155" duration="431000" />
+      <workItem from="1667725447155" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -391,7 +387,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667656388133</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="info leetCode 283. 移动零">
+      <created>1667726190422</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726190422</updated>
+    </task>
+    <task id="LOCAL-00038" summary="info">
+      <created>1667726201329</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726201329</updated>
+    </task>
+    <task id="LOCAL-00039" summary="info 318竞赛  class6229">
+      <created>1667726242589</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726242589</updated>
+    </task>
+    <task id="LOCAL-00040" summary="info 竞赛318  class6230 超时了">
+      <created>1667726279198</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726279198</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,9 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode 13罗马数字转整数" />
-    <MESSAGE value="info  leetCode 20.有效的括号" />
-    <MESSAGE value="info leetCode 69.x的平方根" />
     <MESSAGE value="info leetCode 21. 合并两个有序链表" />
     <MESSAGE value="info leetCode 26. 删除有序数组中的重复项" />
     <MESSAGE value="info leetcode 14. 最长公共前缀" />
@@ -432,9 +453,12 @@
     <MESSAGE value="info LeetCode : 145. 二叉树的后序遍历" />
     <MESSAGE value="info LeetCode : 144. 二叉树的前序遍历" />
     <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
-    <MESSAGE value="info" />
     <MESSAGE value="info leetCode 13罗马数字转整数" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode 13罗马数字转整数" />
+    <MESSAGE value="info leetCode 283. 移动零" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info 318竞赛  class6229" />
+    <MESSAGE value="info 竞赛318  class6230 超时了" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 竞赛318  class6230 超时了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
