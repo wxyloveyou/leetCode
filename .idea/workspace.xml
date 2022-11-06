@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 144. 二叉树的前序遍历">
-      <change afterPath="$PROJECT_DIR$/easy/src/Num_office017_printNumbers.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode 13罗马数字转整数">
+      <change afterPath="$PROJECT_DIR$/arrays/src/Num283_moveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/competition/competition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/competition/src/class6229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/competition/src/class6230.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,31 +58,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num_office017_printNumbers">
+  <component name="RunManager" selected="Application.Num283_moveZeroes">
+    <configuration name="Num283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num283_moveZeroes" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Num32_longestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num32_longestValidParentheses" />
       <module name="hard" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num41_firstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num41_firstMissingPositive" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num453_minMoves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num453_minMoves" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num665_checkPossibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num665_checkPossibility" />
-      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,13 +80,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="class6229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class6229" />
+      <module name="competition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class6230" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class6230" />
+      <module name="competition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num283_moveZeroes" />
+        <item itemvalue="Application.class6230" />
+        <item itemvalue="Application.class6229" />
         <item itemvalue="Application.Num_office017_printNumbers" />
         <item itemvalue="Application.Num32_longestValidParentheses" />
-        <item itemvalue="Application.Num665_checkPossibility" />
-        <item itemvalue="Application.Num453_minMoves" />
-        <item itemvalue="Application.Num41_firstMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +135,9 @@
       <workItem from="1667227279143" duration="188000" />
       <workItem from="1667288645513" duration="861000" />
       <workItem from="1667561232959" duration="246000" />
-      <workItem from="1667655930281" duration="354000" />
+      <workItem from="1667655930281" duration="1125000" />
+      <workItem from="1667701782567" duration="7364000" />
+      <workItem from="1667725447155" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -364,7 +370,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667561467997</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数">
+      <created>1667656301260</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1667656301260</updated>
+    </task>
+    <task id="LOCAL-00035" summary="info">
+      <created>1667656331845</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1667656331845</updated>
+    </task>
+    <task id="LOCAL-00036" summary="info leetCode 13罗马数字转整数">
+      <created>1667656388133</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667656388133</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode 09回文数" />
     <MESSAGE value="info  leetCode 13罗马数字转整数" />
     <MESSAGE value="info  leetCode 20.有效的括号" />
     <MESSAGE value="info leetCode 69.x的平方根" />
@@ -402,11 +428,13 @@
     <MESSAGE value="info LeetCode 442. 数组中重复的数据" />
     <MESSAGE value="info leetCode 453. 最小操作次数使数组元素相等" />
     <MESSAGE value="info leetCode 665. 非递减数列" />
-    <MESSAGE value="info" />
     <MESSAGE value="info  leetCode 921. 使括号有效的最少添加" />
     <MESSAGE value="info LeetCode : 145. 二叉树的后序遍历" />
     <MESSAGE value="info LeetCode : 144. 二叉树的前序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 144. 二叉树的前序遍历" />
+    <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info leetCode 13罗马数字转整数" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode 13罗马数字转整数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,6 +473,16 @@
           <url>file://$PROJECT_DIR$/arrays/src/Num41_firstMissingPositive.java</url>
           <line>30</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/competition/src/class6229.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/competition/src/class6230.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
