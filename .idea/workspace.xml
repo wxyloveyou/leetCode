@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode :119. 杨辉三角 II">
-      <change afterPath="$PROJECT_DIR$/arrays/src/Num419_countBattleships.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode : 189. 轮转数组">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/src/Num189_rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/Num189_rotate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num119_getRow">
+  <component name="RunManager" selected="Application.Num189_rotate">
     <configuration name="Num118_generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num118_generate" />
       <module name="easy" />
@@ -68,16 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num283_moveZeroes" />
+    <configuration name="Num189_rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num189_rotate" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class6229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class6229" />
-      <module name="competition" />
+    <configuration name="Num283_moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num283_moveZeroes" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num189_rotate" />
         <item itemvalue="Application.Num119_getRow" />
         <item itemvalue="Application.Num118_generate" />
         <item itemvalue="Application.Num283_moveZeroes" />
         <item itemvalue="Application.class6230" />
-        <item itemvalue="Application.class6229" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,7 @@
       <workItem from="1667561232959" duration="246000" />
       <workItem from="1667655930281" duration="1125000" />
       <workItem from="1667701782567" duration="7364000" />
-      <workItem from="1667725447155" duration="7161000" />
+      <workItem from="1667725447155" duration="8977000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662864391448</created>
@@ -449,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667738777168</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="info leetCode : 419. 甲板上的战舰">
+      <created>1667739608296</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1667739608296</updated>
+    </task>
+    <task id="LOCAL-00047" summary="info leetCode : 189. 轮转数组">
+      <created>1667739719731</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1667739719731</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,8 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode  35. 搜索插入位置" />
-    <MESSAGE value="info  leetcode  495. 提莫攻击" />
     <MESSAGE value="info   leetcode 485. 最大连续 1 的个数" />
     <MESSAGE value="info   leetcode 70. 爬楼梯" />
     <MESSAGE value="info   leetCode 58. 最后一个单词的长度" />
@@ -492,7 +505,9 @@
     <MESSAGE value="info 竞赛318  118. 杨辉三角" />
     <MESSAGE value="info leetCode :  118. 杨辉三角" />
     <MESSAGE value="info leetCode :119. 杨辉三角 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode :119. 杨辉三角 II" />
+    <MESSAGE value="info leetCode : 419. 甲板上的战舰" />
+    <MESSAGE value="info leetCode : 189. 轮转数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode : 189. 轮转数组" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,6 +561,11 @@
           <url>file://$PROJECT_DIR$/easy/src/Num119_getRow.java</url>
           <line>25</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/Num189_rotate.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
