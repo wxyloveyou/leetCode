@@ -25,7 +25,7 @@ public class Num118_generate {
     }
 
     public static void main(String[] args) {
-        List<List<Integer>> generate = generate(5);
+        List<List<Integer>> generate = generate(3);
         System.out.println(generate);
     }
 }
