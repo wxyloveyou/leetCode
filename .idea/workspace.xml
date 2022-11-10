@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode : 238. 除自身以外数组的乘积">
-      <change afterPath="$PROJECT_DIR$/A_String/A_String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num520_detectCapitalUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 125. 验证回文串" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,28 +133,7 @@
       <workItem from="1667725447155" duration="9793000" />
       <workItem from="1667812348103" duration="1322000" />
       <workItem from="1667813690424" duration="596000" />
-      <workItem from="1668086069734" duration="808000" />
-    </task>
-    <task id="LOCAL-00002" summary="info">
-      <created>1662865039563</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1662865039563</updated>
-    </task>
-    <task id="LOCAL-00003" summary="info  leetCode 09回文数">
-      <created>1662865063804</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1662865063804</updated>
-    </task>
-    <task id="LOCAL-00004" summary="info  leetCode 13罗马数字转整数">
-      <created>1662866459343</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1662866459343</updated>
+      <workItem from="1668086069734" duration="1114000" />
     </task>
     <task id="LOCAL-00005" summary="info  leetCode 20.有效的括号">
       <created>1662868457438</created>
@@ -483,7 +457,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667813593647</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="info">
+      <created>1668087027903</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1668087027903</updated>
+    </task>
+    <task id="LOCAL-00052" summary="info LeetCode : 520. 检测大写字母">
+      <created>1668087060326</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1668087060326</updated>
+    </task>
+    <task id="LOCAL-00053" summary="info LeetCode : 125. 验证回文串">
+      <created>1668087133832</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1668087133832</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,8 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info   leetcode 70. 爬楼梯" />
-    <MESSAGE value="info   leetCode 58. 最后一个单词的长度" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间 O(n)" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间没有方法一好" />
     <MESSAGE value="info   leetCode.628  三个数的最大乘积" />
@@ -517,7 +510,6 @@
     <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
     <MESSAGE value="info leetCode 13罗马数字转整数" />
     <MESSAGE value="info leetCode 283. 移动零" />
-    <MESSAGE value="info" />
     <MESSAGE value="info 318竞赛  class6229" />
     <MESSAGE value="info 竞赛318  class6230 超时了" />
     <MESSAGE value="info 竞赛318  118. 杨辉三角" />
@@ -526,7 +518,10 @@
     <MESSAGE value="info leetCode : 419. 甲板上的战舰" />
     <MESSAGE value="info leetCode : 189. 轮转数组" />
     <MESSAGE value="info leetCode : 238. 除自身以外数组的乘积" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode : 238. 除自身以外数组的乘积" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info LeetCode : 520. 检测大写字母" />
+    <MESSAGE value="info LeetCode : 125. 验证回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 125. 验证回文串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -585,6 +580,11 @@
           <url>file://$PROJECT_DIR$/arrays/src/Num189_rotate.java</url>
           <line>9</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num520_detectCapitalUse.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
