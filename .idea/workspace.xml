@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode : 189. 轮转数组">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode : 238. 除自身以外数组的乘积">
+      <change afterPath="$PROJECT_DIR$/A_String/A_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num520_detectCapitalUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/src/Num189_rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/Num189_rotate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num189_rotate">
+  <component name="RunManager" selected="Application.Num520_detectCapitalUse">
     <configuration name="Num118_generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num118_generate" />
       <module name="easy" />
@@ -83,20 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class6230" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class6230" />
-      <module name="competition" />
+    <configuration name="Num520_detectCapitalUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num520_detectCapitalUse" />
+      <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num520_detectCapitalUse" />
         <item itemvalue="Application.Num189_rotate" />
         <item itemvalue="Application.Num119_getRow" />
         <item itemvalue="Application.Num118_generate" />
         <item itemvalue="Application.Num283_moveZeroes" />
-        <item itemvalue="Application.class6230" />
       </list>
     </recent_temporary>
   </component>
@@ -133,14 +135,10 @@
       <workItem from="1667561232959" duration="246000" />
       <workItem from="1667655930281" duration="1125000" />
       <workItem from="1667701782567" duration="7364000" />
-      <workItem from="1667725447155" duration="8977000" />
-    </task>
-    <task id="LOCAL-00001" summary="info">
-      <created>1662864391448</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1662864391448</updated>
+      <workItem from="1667725447155" duration="9793000" />
+      <workItem from="1667812348103" duration="1322000" />
+      <workItem from="1667813690424" duration="596000" />
+      <workItem from="1668086069734" duration="808000" />
     </task>
     <task id="LOCAL-00002" summary="info">
       <created>1662865039563</created>
@@ -464,7 +462,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667739719731</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="info leetCode : 189. 轮转数组">
+      <created>1667741609142</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1667741609142</updated>
+    </task>
+    <task id="LOCAL-00049" summary="info leetCode : 238. 除自身以外数组的乘积">
+      <created>1667812933219</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1667812933219</updated>
+    </task>
+    <task id="LOCAL-00050" summary="info leetCode : 238. 除自身以外数组的乘积">
+      <created>1667813593646</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1667813593647</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info   leetcode 485. 最大连续 1 的个数" />
     <MESSAGE value="info   leetcode 70. 爬楼梯" />
     <MESSAGE value="info   leetCode 58. 最后一个单词的长度" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间 O(n)" />
@@ -507,7 +525,8 @@
     <MESSAGE value="info leetCode :119. 杨辉三角 II" />
     <MESSAGE value="info leetCode : 419. 甲板上的战舰" />
     <MESSAGE value="info leetCode : 189. 轮转数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode : 189. 轮转数组" />
+    <MESSAGE value="info leetCode : 238. 除自身以外数组的乘积" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode : 238. 除自身以外数组的乘积" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
