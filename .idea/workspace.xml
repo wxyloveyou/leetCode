@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 125. 验证回文串" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : halvesAreAlike">
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num1704_.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,6 +136,7 @@
       <workItem from="1667812348103" duration="1322000" />
       <workItem from="1667813690424" duration="596000" />
       <workItem from="1668086069734" duration="1114000" />
+      <workItem from="1668177044717" duration="303000" />
     </task>
     <task id="LOCAL-00005" summary="info  leetCode 20.有效的括号">
       <created>1662868457438</created>
