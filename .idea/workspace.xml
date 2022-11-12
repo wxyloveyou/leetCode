@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num05_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/Num54_spiralOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num05_longestPalindrome">
+  <component name="RunManager" selected="Application.Num54_spiralOrder">
     <configuration name="Num03_findRepeatNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num03_findRepeatNumber" />
       <module name="Swordfinger_offer" />
@@ -92,20 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num520_detectCapitalUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num520_detectCapitalUse" />
-      <module name="A_String" />
+    <configuration name="Num54_spiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num54_spiralOrder" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num54_spiralOrder" />
         <item itemvalue="Application.Num05_longestPalindrome" />
         <item itemvalue="Application.Num03_findRepeatNumber" />
         <item itemvalue="Application.Num11_maxArea" />
         <item itemvalue="Application.Num1704_halvesAreAlike" />
-        <item itemvalue="Application.Num520_detectCapitalUse" />
       </list>
     </recent_temporary>
   </component>
@@ -146,14 +146,7 @@
       <workItem from="1667812348103" duration="1322000" />
       <workItem from="1667813690424" duration="596000" />
       <workItem from="1668086069734" duration="1114000" />
-      <workItem from="1668177044717" duration="10941000" />
-    </task>
-    <task id="LOCAL-00009" summary="info leetCode 69.x的平方根">
-      <created>1662984672494</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1662984672494</updated>
+      <workItem from="1668177044717" duration="12541000" />
     </task>
     <task id="LOCAL-00010" summary="info leetCode 21. 合并两个有序链表">
       <created>1662988498767</created>
@@ -491,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668252456947</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="info leetCode :  5. 最长回文子串">
+      <created>1668259269917</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1668259269917</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info leetCode 645. 错误的集合" />
     <MESSAGE value="info leetCode 448. 找到所有数组中消失的数字" />
     <MESSAGE value="info LeetCode 442. 数组中重复的数据" />
     <MESSAGE value="info leetCode 453. 最小操作次数使数组元素相等" />
@@ -534,7 +533,8 @@
     <MESSAGE value="info leetCode : 1704. 判断字符串的两半是否相似" />
     <MESSAGE value="info  leetCode : 11. 盛最多水的容器" />
     <MESSAGE value="info leetCode :剑指offer： 03 数组中重复的数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="info leetCode :剑指offer： 03 数组中重复的数字" />
+    <MESSAGE value="info leetCode :  5. 最长回文子串" />
+    <option name="LAST_COMMIT_MESSAGE" value="info leetCode :  5. 最长回文子串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,7 +605,7 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/A_String/src/Num05_.java</url>
+          <url>file://$PROJECT_DIR$/A_String/src/Num05_longestPalindrome.java</url>
           <line>124</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
