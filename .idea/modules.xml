@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A_String/A_String.iml" filepath="$PROJECT_DIR$/A_String/A_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swordfinger_offer/Swordfinger_offer.iml" filepath="$PROJECT_DIR$/Swordfinger_offer/Swordfinger_offer.iml" />
       <module fileurl="file://$PROJECT_DIR$/competition/competition.iml" filepath="$PROJECT_DIR$/competition/competition.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy/easy.iml" filepath="$PROJECT_DIR$/easy/easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/hard/hard.iml" filepath="$PROJECT_DIR$/hard/hard.iml" />
