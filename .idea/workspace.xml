@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num1704_halvesAreAlike.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info leetCode : 1704. 判断字符串的两半是否相似">
+      <change afterPath="$PROJECT_DIR$/arrays/src/Num11_maxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A_String/src/Num1704_.java" beforeDir="false" />
     </list>
@@ -61,17 +61,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num1704_halvesAreAlike">
-    <configuration name="Num118_generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num118_generate" />
+  <component name="RunManager" selected="Application.Num11_maxArea">
+    <configuration name="Num119_getRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num119_getRow" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num119_getRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num119_getRow" />
-      <module name="easy" />
+    <configuration name="Num11_maxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num11_maxArea" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num11_maxArea" />
         <item itemvalue="Application.Num1704_halvesAreAlike" />
         <item itemvalue="Application.Num520_detectCapitalUse" />
         <item itemvalue="Application.Num189_rotate" />
         <item itemvalue="Application.Num119_getRow" />
-        <item itemvalue="Application.Num118_generate" />
       </list>
     </recent_temporary>
   </component>
@@ -144,14 +144,7 @@
       <workItem from="1667812348103" duration="1322000" />
       <workItem from="1667813690424" duration="596000" />
       <workItem from="1668086069734" duration="1114000" />
-      <workItem from="1668177044717" duration="3223000" />
-    </task>
-    <task id="LOCAL-00006" summary="info  leetCode 20.有效的括号">
-      <created>1662872610662</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1662872610662</updated>
+      <workItem from="1668177044717" duration="5096000" />
     </task>
     <task id="LOCAL-00007" summary="info">
       <created>1662872642026</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668177417661</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="info leetCode : 1704. 判断字符串的两半是否相似">
+      <created>1668249787525</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1668249787525</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,6 +596,11 @@
           <url>file://$PROJECT_DIR$/A_String/src/Num520_detectCapitalUse.java</url>
           <line>9</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/Num11_maxArea.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
