@@ -14,12 +14,13 @@ import java.io.InputStream;
 public class Num67_addBinary {
     public static String addBinary(String a, String b) {
 
-        conserve(a);
-
+        int aNum = conserve(a);
+        int bNum = conserve(b);
+        int count = aNum + bNum;
 //        int aNum = Integer.parseInt(a);
 //        int bNum = Integer.parseInt(b);
 
-        System.out.println(aNum);
+        System.out.println(count);
         return "";
     }
 
@@ -31,10 +32,10 @@ public class Num67_addBinary {
                 aNum =  aNum + (int) (Math.pow(2, asrt.length - i - 1));
             }
         }
-        return
+        return aNum;
     }
 
     public static void main(String[] args) {
-        addBinary("011", "23");
+        addBinary("011", "010");
     }
 }
