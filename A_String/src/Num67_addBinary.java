@@ -13,22 +13,28 @@ import java.io.InputStream;
 
 public class Num67_addBinary {
     public static String addBinary(String a, String b) {
-        char[] asrt = a.toCharArray();
-        char[] bsrt = b.toCharArray();
-        int aNum = 0;
-        for (int i = asrt.length - 1; i >= 0; i--) {
-            if (asrt[i] == '1') {
 
-            }
-        }
-        int aNum = Integer.parseInt(a);
-        int bNum = Integer.parseInt(b);
+        conserve(a);
+
+//        int aNum = Integer.parseInt(a);
+//        int bNum = Integer.parseInt(b);
 
         System.out.println(aNum);
         return "";
     }
 
+    private static int conserve(String a) {
+        char[] asrt = a.toCharArray();
+        int aNum = 0;
+        for (int i = asrt.length - 1; i >= 0; i--) {
+            if (asrt[i] == '1') {
+                aNum =  aNum + (int) (Math.pow(2, asrt.length - i - 1));
+            }
+        }
+        return
+    }
+
     public static void main(String[] args) {
-        addBinary("12", "23");
+        addBinary("011", "23");
     }
 }

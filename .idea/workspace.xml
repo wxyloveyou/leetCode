@@ -22,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info  LeetCode : 67. 二进制求和">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -416,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667553733094</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="info  LeetCode : 67. 二进制求和">
+      <created>1668417940592</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1668417940592</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +442,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode 13罗马数字转整数" />
     <MESSAGE value="info  leetCode 20.有效的括号" />
     <MESSAGE value="info leetCode 69.x的平方根" />
     <MESSAGE value="info leetCode 21. 合并两个有序链表" />
@@ -460,38 +466,55 @@
     <MESSAGE value="info LeetCode : 260. 只出现一次的数字 III" />
     <MESSAGE value="info LeetCode : 125. 验证回文串" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info  LeetCode : 67. 二进制求和" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  LeetCode : 67. 二进制求和" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1668417915457">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1668418210752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472917" />
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1668417915457">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210752" />
+    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1668418210751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1668417915457">
+    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210751" />
+    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1668418210751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1668417915457">
+    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210751" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1668418210752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210752" />
+    <state width="1481" height="292" key="GridCell.Tab.1.bottom" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.center" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.left" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.right" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
     <state x="308" y="183" key="SettingsEditor" timestamp="1667550683840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="610" y="321" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1667352822795" />
     <state x="308" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667550683840" />
-    <state x="1104" y="200" key="Vcs.Push.Dialog.v2" timestamp="1667553738892">
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2" timestamp="1668417944338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1667553738892" />
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1668417944338" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
