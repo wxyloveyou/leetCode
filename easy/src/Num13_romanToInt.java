@@ -3,7 +3,7 @@
  * @create : 2022-09-11 11:09
  * @Info : leetCode 13罗马数字转整数
  */
-public class Nun13_romanToInt {
+public class Num13_romanToInt {
     public static int romanToInt(String s) {
         int[] nums = new int[s.length()];
         for (int i = 0; i < s.length(); i++) {
