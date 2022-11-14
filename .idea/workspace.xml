@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
-      <change afterPath="$PROJECT_DIR$/easy/src/Num_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num125_isPalindrome">
+  <component name="RunManager" selected="Application.Num67_addBinary">
     <configuration name="Num09_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num09_isPalindrome" />
       <module name="easy" />
@@ -96,13 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num20_isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num20_isValid" />
-      <module name="easy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Num260_singleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num260_singleNumber" />
       <module name="easy" />
@@ -110,26 +103,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Num67_addBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num67_addBinary" />
+      <module name="A_String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num67_addBinary" />
         <item itemvalue="Application.Num125_isPalindrome" />
         <item itemvalue="Application.Num260_singleNumber" />
         <item itemvalue="Application.Num136_singleNumber" />
         <item itemvalue="Application.Num09_isPalindrome" />
-        <item itemvalue="Application.Num20_isValid" />
       </list>
     </recent_temporary>
   </component>
@@ -465,26 +463,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1667553559400">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1668417915457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472917" />
-    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559400" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1667553559399">
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
+    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1668417915457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559399" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1667553559399">
+    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
+    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1668417915457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559399" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1667553559400">
+    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1668417915457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
-    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667553559400" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668417915457" />
     <state x="308" y="183" key="SettingsEditor" timestamp="1667550683840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
