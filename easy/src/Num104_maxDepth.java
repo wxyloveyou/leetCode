@@ -10,7 +10,7 @@ import javax.swing.*;
  **/
 
 public class Num104_maxDepth {
-    public class TreeNode {
+    public static class TreeNode {
       int val;
       TreeNode left;
       TreeNode right;
@@ -22,20 +22,30 @@ public class Num104_maxDepth {
           this.right = right;
       }
     }
-    public int maxDepth(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        Info leftInfo =
-
-
+    public static int maxDepth(TreeNode root) {
+       return process(root).height;
     }
 
-    public class Info {
+    private static Info process(TreeNode root) {
+        if (root == null) {
+            return new Info(0);
+        }
+
+        Info leftInfo = process(root.left);
+        Info rightInfo = process(root.right);
+
+        int height = Math.max(leftInfo.height, rightInfo.height);
+        return new Info(height);
+
+    }
+    public static class Info {
         public int height;
         public Info(int height) {
             this.height = height;
         }
+    }
+
+    public static void main(String[] args) {
+
     }
 }
