@@ -3,10 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info  LeetCode : 110. 平衡二叉树">
+      <changelist_data name="wxy007" email="2423144591@qq.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +39,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wxy007 &lt;2423144591@qq.com&gt;" />
+        <option value="WXY007 &lt;11437254+rookiewxy007@user.noreply.gitee.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,51 +59,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Num67_addBinary">
-    <configuration name="Num118_generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num118_generate" />
+    <configuration name="Num09_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num09_isPalindrome" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num119_getRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num119_getRow" />
+    <configuration name="Num125_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num125_isPalindrome" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num189_rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num189_rotate" />
-      <module name="LeetCode" />
+    <configuration name="Num136_singleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num136_singleNumber" />
+      <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num520_detectCapitalUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num520_detectCapitalUse" />
-      <module name="A_String" />
+    <configuration name="Num260_singleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num260_singleNumber" />
+      <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,10 +115,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Num67_addBinary" />
-        <item itemvalue="Application.Num520_detectCapitalUse" />
-        <item itemvalue="Application.Num189_rotate" />
-        <item itemvalue="Application.Num119_getRow" />
-        <item itemvalue="Application.Num118_generate" />
+        <item itemvalue="Application.Num125_isPalindrome" />
+        <item itemvalue="Application.Num260_singleNumber" />
+        <item itemvalue="Application.Num136_singleNumber" />
+        <item itemvalue="Application.Num09_isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +152,37 @@
       <workItem from="1667217440492" duration="12000" />
       <workItem from="1667227279143" duration="188000" />
       <workItem from="1667288645513" duration="861000" />
-      <workItem from="1667561232959" duration="246000" />
-      <workItem from="1667655930281" duration="1125000" />
-      <workItem from="1667701782567" duration="7364000" />
-      <workItem from="1667725447155" duration="9793000" />
-      <workItem from="1667812348103" duration="1322000" />
-      <workItem from="1667813690424" duration="596000" />
-      <workItem from="1668086069734" duration="1114000" />
+      <workItem from="1667352020141" duration="794000" />
+      <workItem from="1667550123456" duration="4199000" />
+      <workItem from="1668559223002" duration="2382000" />
+    </task>
+    <task id="LOCAL-00001" summary="info">
+      <created>1662864391448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662864391448</updated>
+    </task>
+    <task id="LOCAL-00002" summary="info">
+      <created>1662865039563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662865039563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="info  leetCode 09回文数">
+      <created>1662865063804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662865063804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="info  leetCode 13罗马数字转整数">
+      <created>1662866459343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662866459343</updated>
     </task>
     <task id="LOCAL-00005" summary="info  leetCode 20.有效的括号">
       <created>1662868457438</created>
@@ -327,161 +373,70 @@
       <option name="project" value="LOCAL" />
       <updated>1667227394825</updated>
     </task>
-    <task id="LOCAL-00032" summary="info LeetCode : 145. 二叉树的后序遍历">
-      <created>1667561336202</created>
+    <task id="LOCAL-00032" summary="info leetCode 136. 只出现一次的数字">
+      <created>1667550569067</created>
       <option name="number" value="00032" />
       <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1667561336202</updated>
+      <updated>1667550569067</updated>
     </task>
-    <task id="LOCAL-00033" summary="info LeetCode : 144. 二叉树的前序遍历">
-      <created>1667561467997</created>
+    <task id="LOCAL-00033" summary="info LeetCode : 260. 只出现一次的数字 III">
+      <created>1667552292569</created>
       <option name="number" value="00033" />
       <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1667561467997</updated>
+      <updated>1667552292569</updated>
     </task>
-    <task id="LOCAL-00034" summary="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数">
-      <created>1667656301260</created>
+    <task id="LOCAL-00034" summary="info LeetCode : 260. 只出现一次的数字 III">
+      <created>1667552365659</created>
       <option name="number" value="00034" />
       <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1667656301260</updated>
+      <updated>1667552365659</updated>
     </task>
-    <task id="LOCAL-00035" summary="info">
-      <created>1667656331845</created>
+    <task id="LOCAL-00035" summary="info LeetCode : 125. 验证回文串">
+      <created>1667553724431</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1667656331845</updated>
+      <updated>1667553724431</updated>
     </task>
-    <task id="LOCAL-00036" summary="info leetCode 13罗马数字转整数">
-      <created>1667656388133</created>
+    <task id="LOCAL-00036" summary="info">
+      <created>1667553733094</created>
       <option name="number" value="00036" />
       <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1667656388133</updated>
+      <updated>1667553733094</updated>
     </task>
-    <task id="LOCAL-00037" summary="info leetCode 283. 移动零">
-      <created>1667726190422</created>
+    <task id="LOCAL-00037" summary="info  LeetCode : 67. 二进制求和">
+      <created>1668417940592</created>
       <option name="number" value="00037" />
       <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1667726190422</updated>
+      <updated>1668417940592</updated>
     </task>
-    <task id="LOCAL-00038" summary="info">
-      <created>1667726201329</created>
+    <task id="LOCAL-00038" summary="info  LeetCode : 1104. 二叉树的最大深度">
+      <created>1668504851201</created>
       <option name="number" value="00038" />
       <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1667726201329</updated>
+      <updated>1668504851201</updated>
     </task>
-    <task id="LOCAL-00039" summary="info 318竞赛  class6229">
-      <created>1667726242589</created>
+    <task id="LOCAL-00039" summary="info  LeetCode : 110. 平衡二叉树">
+      <created>1668560064095</created>
       <option name="number" value="00039" />
       <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1667726242589</updated>
+      <updated>1668560064095</updated>
     </task>
-    <task id="LOCAL-00040" summary="info 竞赛318  class6230 超时了">
-      <created>1667726279198</created>
+    <task id="LOCAL-00040" summary="info  LeetCode : 111. 二叉树的最小深度">
+      <created>1668561473054</created>
       <option name="number" value="00040" />
       <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1667726279198</updated>
+      <updated>1668561473054</updated>
     </task>
-    <task id="LOCAL-00041" summary="info 竞赛318  118. 杨辉三角">
-      <created>1667732267715</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1667732267715</updated>
-    </task>
-    <task id="LOCAL-00042" summary="info leetCode :  118. 杨辉三角">
-      <created>1667736973739</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1667736973739</updated>
-    </task>
-    <task id="LOCAL-00043" summary="info leetCode :  118. 杨辉三角">
-      <created>1667737088253</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1667737088253</updated>
-    </task>
-    <task id="LOCAL-00044" summary="info leetCode :  118. 杨辉三角">
-      <created>1667737407426</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1667737407426</updated>
-    </task>
-    <task id="LOCAL-00045" summary="info leetCode :119. 杨辉三角 II">
-      <created>1667738777168</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1667738777168</updated>
-    </task>
-    <task id="LOCAL-00046" summary="info leetCode : 419. 甲板上的战舰">
-      <created>1667739608296</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1667739608296</updated>
-    </task>
-    <task id="LOCAL-00047" summary="info leetCode : 189. 轮转数组">
-      <created>1667739719731</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1667739719731</updated>
-    </task>
-    <task id="LOCAL-00048" summary="info leetCode : 189. 轮转数组">
-      <created>1667741609142</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1667741609142</updated>
-    </task>
-    <task id="LOCAL-00049" summary="info leetCode : 238. 除自身以外数组的乘积">
-      <created>1667812933219</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1667812933219</updated>
-    </task>
-    <task id="LOCAL-00050" summary="info leetCode : 238. 除自身以外数组的乘积">
-      <created>1667813593646</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1667813593647</updated>
-    </task>
-    <task id="LOCAL-00051" summary="info">
-      <created>1668087027903</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1668087027903</updated>
-    </task>
-    <task id="LOCAL-00052" summary="info LeetCode : 520. 检测大写字母">
-      <created>1668087060326</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1668087060326</updated>
-    </task>
-    <task id="LOCAL-00053" summary="info LeetCode : 125. 验证回文串">
-      <created>1668087133832</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1668087133832</updated>
-    </task>
-    <option name="localTasksCounter" value="54" />
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,8 +452,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="info leetcode 14. 最长公共前缀" />
+    <MESSAGE value="info  leetCode  35. 搜索插入位置" />
+    <MESSAGE value="info  leetcode  495. 提莫攻击" />
+    <MESSAGE value="info   leetcode 485. 最大连续 1 的个数" />
+    <MESSAGE value="info   leetcode 70. 爬楼梯" />
+    <MESSAGE value="info   leetCode 58. 最后一个单词的长度" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间 O(n)" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间没有方法一好" />
     <MESSAGE value="info   leetCode.628  三个数的最大乘积" />
@@ -508,23 +470,80 @@
     <MESSAGE value="info leetCode 453. 最小操作次数使数组元素相等" />
     <MESSAGE value="info leetCode 665. 非递减数列" />
     <MESSAGE value="info  leetCode 921. 使括号有效的最少添加" />
-    <MESSAGE value="info LeetCode : 145. 二叉树的后序遍历" />
-    <MESSAGE value="info LeetCode : 144. 二叉树的前序遍历" />
-    <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
-    <MESSAGE value="info leetCode 13罗马数字转整数" />
-    <MESSAGE value="info leetCode 283. 移动零" />
-    <MESSAGE value="info 318竞赛  class6229" />
-    <MESSAGE value="info 竞赛318  class6230 超时了" />
-    <MESSAGE value="info 竞赛318  118. 杨辉三角" />
-    <MESSAGE value="info leetCode :  118. 杨辉三角" />
-    <MESSAGE value="info leetCode :119. 杨辉三角 II" />
-    <MESSAGE value="info leetCode : 419. 甲板上的战舰" />
-    <MESSAGE value="info leetCode : 189. 轮转数组" />
-    <MESSAGE value="info leetCode : 238. 除自身以外数组的乘积" />
-    <MESSAGE value="info" />
-    <MESSAGE value="info LeetCode : 520. 检测大写字母" />
+    <MESSAGE value="info leetCode 20.有效的括号" />
+    <MESSAGE value="info leetCode 136. 只出现一次的数字" />
+    <MESSAGE value="info LeetCode : 260. 只出现一次的数字 III" />
     <MESSAGE value="info LeetCode : 125. 验证回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 125. 验证回文串" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info  LeetCode : 67. 二进制求和" />
+    <MESSAGE value="info  LeetCode : 101. 对称二叉树" />
+    <MESSAGE value="info  LeetCode : 1104. 二叉树的最大深度" />
+    <MESSAGE value="info  LeetCode : 110. 平衡二叉树" />
+    <MESSAGE value="info  LeetCode : 111. 二叉树的最小深度" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  LeetCode : 111. 二叉树的最小深度" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1047" y="227" key="#Deployment" timestamp="1668561544939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1047" y="227" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1668561544939" />
+    <state x="945" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1668559401499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="945" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1668559401499" />
+    <state x="801" y="208" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1668561606610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="208" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1668561606610" />
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom" timestamp="1668418210752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472917" />
+    <state width="1481" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210752" />
+    <state width="1481" height="236" key="GridCell.Tab.0.center" timestamp="1668418210751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state width="1481" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210751" />
+    <state width="1481" height="236" key="GridCell.Tab.0.left" timestamp="1668418210751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state width="1481" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210751" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right" timestamp="1668418210752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="263" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667352472916" />
+    <state width="1481" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668418210752" />
+    <state width="1481" height="292" key="GridCell.Tab.1.bottom" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.center" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.left" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state width="1481" height="292" key="GridCell.Tab.1.right" timestamp="1668418179280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="292" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668418179280" />
+    <state x="308" y="183" key="SettingsEditor" timestamp="1667550683840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="610" y="321" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1667352822795" />
+    <state x="308" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667550683840" />
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2" timestamp="1668561476752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1668561476752" />
+    <state x="822" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668559243443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1668559243443" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,36 +582,6 @@
           <url>file://$PROJECT_DIR$/arrays/src/Num41_firstMissingPositive.java</url>
           <line>30</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/competition/src/class6229.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/competition/src/class6230.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/Num119_getRow.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/arrays/src/Num189_rotate.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/A_String/src/Num520_detectCapitalUse.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/A_String/src/Num67_addBinary.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
