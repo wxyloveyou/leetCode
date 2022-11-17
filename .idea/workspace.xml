@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :67. 二进制求和">
+      <change afterPath="$PROJECT_DIR$/easy/src/Num141_hasCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_String/src/Num67_addBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,20 +137,7 @@
       <workItem from="1667812348103" duration="1322000" />
       <workItem from="1667813690424" duration="596000" />
       <workItem from="1668086069734" duration="1114000" />
-    </task>
-    <task id="LOCAL-00005" summary="info  leetCode 20.有效的括号">
-      <created>1662868457438</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1662868457438</updated>
-    </task>
-    <task id="LOCAL-00006" summary="info  leetCode 20.有效的括号">
-      <created>1662872610662</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1662872610662</updated>
+      <workItem from="1668695176698" duration="373000" />
     </task>
     <task id="LOCAL-00007" summary="info">
       <created>1662872642026</created>
@@ -481,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668087133832</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="info LeetCode :67. 二进制求和">
+      <created>1668567946686</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1668567946686</updated>
+    </task>
+    <task id="LOCAL-00055" summary="info LeetCode :67. 二进制求和">
+      <created>1668567956010</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1668567956010</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info   leetCode.414 第三大的数 时间 O(n)" />
     <MESSAGE value="info   leetCode.414 第三大的数 时间没有方法一好" />
     <MESSAGE value="info   leetCode.628  三个数的最大乘积" />
     <MESSAGE value="info leetCode 645. 错误的集合" />
@@ -524,7 +524,8 @@
     <MESSAGE value="info" />
     <MESSAGE value="info LeetCode : 520. 检测大写字母" />
     <MESSAGE value="info LeetCode : 125. 验证回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 125. 验证回文串" />
+    <MESSAGE value="info LeetCode :67. 二进制求和" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :67. 二进制求和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -591,7 +592,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/A_String/src/Num67_addBinary.java</url>
-          <line>20</line>
+          <line>16</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
