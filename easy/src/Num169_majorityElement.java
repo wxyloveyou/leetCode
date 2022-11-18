@@ -1,12 +1,10 @@
 /**
- * @program: LeetCode
- * @ClassName Num169_majorityElement
- * @description: LeetCode : 169. 多数元素
- * @author: WXY
- * @create: 2022-11-18 08:27
- * @Version 1.0
+ * @author : WXY
+ * @program : LeetCode
+ * @className ：Num169_majorityElement
+ * @create : 2022/11/17:23:01
+ * @info : 169. 多数元素
  **/
-
 public class Num169_majorityElement {
 
     public static int majorityElement(int[] nums) {
