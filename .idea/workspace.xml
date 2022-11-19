@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode ： 169. 多数元素">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode ：541. 反转字符串 II">
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num557_reverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num217_containsDuplicate">
+  <component name="RunManager" selected="Application.Num557_reverseWords">
     <configuration name="Num191_hammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Num191_hammingWeight" />
       <module name="easy" />
@@ -75,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num520_detectCapitalUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num520_detectCapitalUse" />
+    <configuration name="Num541_reverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num541_reverseStr" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num67_addBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num67_addBinary" />
+    <configuration name="Num557_reverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num557_reverseWords" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num557_reverseWords" />
+        <item itemvalue="Application.Num541_reverseStr" />
         <item itemvalue="Application.Num217_containsDuplicate" />
         <item itemvalue="Application.Num205_isIsomorphic" />
         <item itemvalue="Application.Num191_hammingWeight" />
-        <item itemvalue="Application.Num67_addBinary" />
-        <item itemvalue="Application.Num520_detectCapitalUse" />
       </list>
     </recent_temporary>
   </component>
@@ -138,34 +139,8 @@
       <workItem from="1668086069734" duration="1114000" />
       <workItem from="1668695176698" duration="1097000" />
       <workItem from="1668817734817" duration="1000000" />
-    </task>
-    <task id="LOCAL-00016" summary="info  leetcode  495. 提莫攻击">
-      <created>1665145937411</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665145937411</updated>
-    </task>
-    <task id="LOCAL-00017" summary="info   leetcode 485. 最大连续 1 的个数">
-      <created>1665145958363</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1665145958363</updated>
-    </task>
-    <task id="LOCAL-00018" summary="info   leetcode 70. 爬楼梯">
-      <created>1665146946228</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1665146946228</updated>
-    </task>
-    <task id="LOCAL-00019" summary="info   leetCode 58. 最后一个单词的长度">
-      <created>1665147791220</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1665147791220</updated>
+      <workItem from="1668819476559" duration="810000" />
+      <workItem from="1668849933939" duration="5408000" />
     </task>
     <task id="LOCAL-00020" summary="info   leetCode.414 第三大的数 时间 O(n)">
       <created>1666016308573</created>
@@ -482,7 +457,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668818735069</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="info LeetCode ： 219. 存在重复元素 II">
+      <created>1668819691429</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1668819691430</updated>
+    </task>
+    <task id="LOCAL-00066" summary="info LeetCode ： 344. 反转字符串">
+      <created>1668850163160</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1668850163160</updated>
+    </task>
+    <task id="LOCAL-00067" summary="info LeetCode ：541. 反转字符串 II">
+      <created>1668859404843</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1668859404844</updated>
+    </task>
+    <task id="LOCAL-00068" summary="info LeetCode ：541. 反转字符串 II">
+      <created>1668860683369</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1668860683369</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,9 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info LeetCode : 144. 二叉树的前序遍历" />
-    <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
-    <MESSAGE value="info leetCode 13罗马数字转整数" />
     <MESSAGE value="info leetCode 283. 移动零" />
     <MESSAGE value="info 318竞赛  class6229" />
     <MESSAGE value="info 竞赛318  class6230 超时了" />
@@ -525,7 +525,10 @@
     <MESSAGE value="info LeetCode ： 206. 反转链表" />
     <MESSAGE value="info LeetCode ： 217. 存在重复元素" />
     <MESSAGE value="info LeetCode ： 169. 多数元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode ： 169. 多数元素" />
+    <MESSAGE value="info LeetCode ： 219. 存在重复元素 II" />
+    <MESSAGE value="info LeetCode ： 344. 反转字符串" />
+    <MESSAGE value="info LeetCode ：541. 反转字符串 II" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode ：541. 反转字符串 II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -604,6 +607,16 @@
           <url>file://$PROJECT_DIR$/arrays/src/Num217_containsDuplicate.java</url>
           <line>13</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num541_reverseStr.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num557_reverseWords.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
