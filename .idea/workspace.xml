@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode ： 206. 反转链表">
-      <change afterPath="$PROJECT_DIR$/arrays/src/Num217_containsDuplicate.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode ： 169. 多数元素">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/Num169_majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/Num169_majorityElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,21 +137,7 @@
       <workItem from="1667813690424" duration="596000" />
       <workItem from="1668086069734" duration="1114000" />
       <workItem from="1668695176698" duration="1097000" />
-      <workItem from="1668817734817" duration="655000" />
-    </task>
-    <task id="LOCAL-00014" summary="info">
-      <created>1662991674182</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1662991674182</updated>
-    </task>
-    <task id="LOCAL-00015" summary="info  leetCode  35. 搜索插入位置">
-      <created>1665145830477</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1665145830477</updated>
+      <workItem from="1668817734817" duration="1000000" />
     </task>
     <task id="LOCAL-00016" summary="info  leetcode  495. 提莫攻击">
       <created>1665145937411</created>
@@ -484,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668779415356</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="info LeetCode ： 217. 存在重复元素">
+      <created>1668818657485</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1668818657486</updated>
+    </task>
+    <task id="LOCAL-00064" summary="info LeetCode ： 169. 多数元素">
+      <created>1668818735069</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1668818735069</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info  leetCode 921. 使括号有效的最少添加" />
-    <MESSAGE value="info LeetCode : 145. 二叉树的后序遍历" />
     <MESSAGE value="info LeetCode : 144. 二叉树的前序遍历" />
     <MESSAGE value="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数" />
     <MESSAGE value="info leetCode 13罗马数字转整数" />
@@ -527,7 +523,9 @@
     <MESSAGE value="info LeetCode ：  205. 同构字符串" />
     <MESSAGE value="info LeetCode ：  169. 多数元素" />
     <MESSAGE value="info LeetCode ： 206. 反转链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode ： 206. 反转链表" />
+    <MESSAGE value="info LeetCode ： 217. 存在重复元素" />
+    <MESSAGE value="info LeetCode ： 169. 多数元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode ： 169. 多数元素" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -604,7 +602,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/arrays/src/Num217_containsDuplicate.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
