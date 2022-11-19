@@ -10,7 +10,6 @@ public class Num557_reverseWords {
         char[] ans = s.toCharArray();
         int start = 0;
         int end = 0;
-
         for (int i = 1; i < s.length(); i++) {
             if (ans[i] == ' ') {
                 end = i - 1;
