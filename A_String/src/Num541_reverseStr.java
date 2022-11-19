@@ -12,7 +12,7 @@ public class Num541_reverseStr {
             int start = i;
             int end = Math.min(str.length() - 1, start + k - 1);
             while (start < end) {
-                swap(ch, start, end);
+                swap(ch,start,end);
                 start++;
                 end--;
             }
