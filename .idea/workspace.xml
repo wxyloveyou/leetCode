@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode ：541. 反转字符串 II">
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num557_reverseWords.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :539. 最小时间差">
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num28_strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num328_isPowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num342_isPowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num415_addStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num43_multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_String/src/Num504_convertToBase7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -54,37 +65,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num557_reverseWords">
-    <configuration name="Num191_hammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num191_hammingWeight" />
-      <module name="easy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num205_isIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num205_isIsomorphic" />
+  <component name="RunManager" selected="Application.Num504_convertToBase7">
+    <configuration name="Num342_isPowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num342_isPowerOfFour" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num217_containsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num217_containsDuplicate" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num541_reverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num541_reverseStr" />
+    <configuration name="Num412_fizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num412_fizzBuzz" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num557_reverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num557_reverseWords" />
+    <configuration name="Num415_addStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num415_addStrings" />
+      <module name="A_String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num504_convertToBase7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num504_convertToBase7" />
+      <module name="A_String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num506_findRelativeRanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num506_findRelativeRanks" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num557_reverseWords" />
-        <item itemvalue="Application.Num541_reverseStr" />
-        <item itemvalue="Application.Num217_containsDuplicate" />
-        <item itemvalue="Application.Num205_isIsomorphic" />
-        <item itemvalue="Application.Num191_hammingWeight" />
+        <item itemvalue="Application.Num504_convertToBase7" />
+        <item itemvalue="Application.Num342_isPowerOfFour" />
+        <item itemvalue="Application.Num415_addStrings" />
+        <item itemvalue="Application.Num506_findRelativeRanks" />
+        <item itemvalue="Application.Num412_fizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -140,105 +151,11 @@
       <workItem from="1668695176698" duration="1097000" />
       <workItem from="1668817734817" duration="1000000" />
       <workItem from="1668819476559" duration="810000" />
-      <workItem from="1668849933939" duration="5408000" />
-    </task>
-    <task id="LOCAL-00020" summary="info   leetCode.414 第三大的数 时间 O(n)">
-      <created>1666016308573</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1666016308573</updated>
-    </task>
-    <task id="LOCAL-00021" summary="info   leetCode.414 第三大的数 时间没有方法一好">
-      <created>1666016803967</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1666016803967</updated>
-    </task>
-    <task id="LOCAL-00022" summary="info   leetCode.628  三个数的最大乘积">
-      <created>1666018890057</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1666018890057</updated>
-    </task>
-    <task id="LOCAL-00023" summary="info   leetCode.628  三个数的最大乘积">
-      <created>1666018931318</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1666018931318</updated>
-    </task>
-    <task id="LOCAL-00024" summary="info leetCode 645. 错误的集合">
-      <created>1666092001577</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1666092001577</updated>
-    </task>
-    <task id="LOCAL-00025" summary="info leetCode 448. 找到所有数组中消失的数字">
-      <created>1666693367186</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1666693367186</updated>
-    </task>
-    <task id="LOCAL-00026" summary="info leetCode 448. 找到所有数组中消失的数字">
-      <created>1666693405927</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1666693405927</updated>
-    </task>
-    <task id="LOCAL-00027" summary="info LeetCode 442. 数组中重复的数据">
-      <created>1666699471015</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1666699471015</updated>
-    </task>
-    <task id="LOCAL-00028" summary="info leetCode 453. 最小操作次数使数组元素相等">
-      <created>1667141382741</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1667141382741</updated>
-    </task>
-    <task id="LOCAL-00029" summary="info leetCode 665. 非递减数列">
-      <created>1667217204097</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1667217204097</updated>
-    </task>
-    <task id="LOCAL-00030" summary="info">
-      <created>1667227386141</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1667227386141</updated>
-    </task>
-    <task id="LOCAL-00031" summary="info  leetCode 921. 使括号有效的最少添加">
-      <created>1667227394825</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1667227394825</updated>
-    </task>
-    <task id="LOCAL-00032" summary="info LeetCode : 145. 二叉树的后序遍历">
-      <created>1667561336202</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1667561336202</updated>
-    </task>
-    <task id="LOCAL-00033" summary="info LeetCode : 144. 二叉树的前序遍历">
-      <created>1667561467997</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1667561467997</updated>
+      <workItem from="1668849933939" duration="11255000" />
+      <workItem from="1668928406209" duration="6821000" />
+      <workItem from="1668951814375" duration="2772000" />
+      <workItem from="1668990185031" duration="1013000" />
+      <workItem from="1669027378246" duration="5165000" />
     </task>
     <task id="LOCAL-00034" summary="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数">
       <created>1667656301260</created>
@@ -485,7 +402,105 @@
       <option name="project" value="LOCAL" />
       <updated>1668860683369</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="info LeetCode ：541. 反转字符串 II">
+      <created>1668861220427</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1668861220427</updated>
+    </task>
+    <task id="LOCAL-00070" summary="info LeetCode ：557. 反转字符串中的单词 III">
+      <created>1668861245448</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1668861245448</updated>
+    </task>
+    <task id="LOCAL-00071" summary="info LeetCode ：557. 反转字符串中的单词 III">
+      <created>1668866430534</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1668866430534</updated>
+    </task>
+    <task id="LOCAL-00072" summary="info LeetCode ：151. 反转字符串中的单词">
+      <created>1668928562125</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1668928562125</updated>
+    </task>
+    <task id="LOCAL-00073" summary="info LeetCode :  387. 字符串中的第一个唯一字符">
+      <created>1668929024819</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1668929024819</updated>
+    </task>
+    <task id="LOCAL-00074" summary="info LeetCode :   389. 找不同">
+      <created>1668929965287</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1668929965287</updated>
+    </task>
+    <task id="LOCAL-00075" summary="info LeetCode :   383. 赎金信">
+      <created>1668930563242</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1668930563242</updated>
+    </task>
+    <task id="LOCAL-00076" summary="info LeetCode :242. 有效的字母异位词">
+      <created>1668931086676</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1668931086676</updated>
+    </task>
+    <task id="LOCAL-00077" summary="info LeetCode :451. 根据字符出现频率排序">
+      <created>1668933354493</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1668933354493</updated>
+    </task>
+    <task id="LOCAL-00078" summary="info LeetCode :412. Fizz Buzz">
+      <created>1668990207366</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1668990207366</updated>
+    </task>
+    <task id="LOCAL-00079" summary="info LeetCode :506. 相对名次">
+      <created>1668990271911</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1668990271911</updated>
+    </task>
+    <task id="LOCAL-00080" summary="info LeetCode :657. 机器人能否返回原点">
+      <created>1668990304274</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1668990304274</updated>
+    </task>
+    <task id="LOCAL-00081" summary="info LeetCode :551. 学生出勤记录 I">
+      <created>1668990318776</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1668990318776</updated>
+    </task>
+    <task id="LOCAL-00082" summary="info LeetCode :539. 最小时间差">
+      <created>1668990331596</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1668990331596</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,18 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info leetCode 283. 移动零" />
-    <MESSAGE value="info 318竞赛  class6229" />
-    <MESSAGE value="info 竞赛318  class6230 超时了" />
-    <MESSAGE value="info 竞赛318  118. 杨辉三角" />
-    <MESSAGE value="info leetCode :  118. 杨辉三角" />
-    <MESSAGE value="info leetCode :119. 杨辉三角 II" />
-    <MESSAGE value="info leetCode : 419. 甲板上的战舰" />
-    <MESSAGE value="info leetCode : 189. 轮转数组" />
-    <MESSAGE value="info leetCode : 238. 除自身以外数组的乘积" />
-    <MESSAGE value="info" />
-    <MESSAGE value="info LeetCode : 520. 检测大写字母" />
-    <MESSAGE value="info LeetCode : 125. 验证回文串" />
     <MESSAGE value="info LeetCode :67. 二进制求和" />
     <MESSAGE value="info LeetCode :141. 环形链表" />
     <MESSAGE value="info LeetCode ： 191. 位1的个数" />
@@ -528,7 +531,19 @@
     <MESSAGE value="info LeetCode ： 219. 存在重复元素 II" />
     <MESSAGE value="info LeetCode ： 344. 反转字符串" />
     <MESSAGE value="info LeetCode ：541. 反转字符串 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode ：541. 反转字符串 II" />
+    <MESSAGE value="info LeetCode ：557. 反转字符串中的单词 III" />
+    <MESSAGE value="info LeetCode ：151. 反转字符串中的单词" />
+    <MESSAGE value="info LeetCode :  387. 字符串中的第一个唯一字符" />
+    <MESSAGE value="info LeetCode :   389. 找不同" />
+    <MESSAGE value="info LeetCode :   383. 赎金信" />
+    <MESSAGE value="info LeetCode :242. 有效的字母异位词" />
+    <MESSAGE value="info LeetCode :451. 根据字符出现频率排序" />
+    <MESSAGE value="info LeetCode :412. Fizz Buzz" />
+    <MESSAGE value="info LeetCode :506. 相对名次" />
+    <MESSAGE value="info LeetCode :657. 机器人能否返回原点" />
+    <MESSAGE value="info LeetCode :551. 学生出勤记录 I" />
+    <MESSAGE value="info LeetCode :539. 最小时间差" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :539. 最小时间差" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -617,6 +632,26 @@
           <url>file://$PROJECT_DIR$/A_String/src/Num557_reverseWords.java</url>
           <line>9</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num389_findTheDifference.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num451_frequencySort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num551_checkRecord.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_String/src/Num415_addStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
