@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_NumAndBit/A_NumAndBit.iml" filepath="$PROJECT_DIR$/A_NumAndBit/A_NumAndBit.iml" />
       <module fileurl="file://$PROJECT_DIR$/A_String/A_String.iml" filepath="$PROJECT_DIR$/A_String/A_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Swordfinger_offer/Swordfinger_offer.iml" filepath="$PROJECT_DIR$/Swordfinger_offer/Swordfinger_offer.iml" />

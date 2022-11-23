@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :539. 最小时间差">
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num28_strStr.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :28. 找出字符串中第一个匹配项的下标  KMP算法">
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/A_NumAndBit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num263_isUgly.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num328_isPowerOfThree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num342_isPowerOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num415_addStrings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num43_multiply.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num504_convertToBase7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,16 +67,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num504_convertToBase7">
-    <configuration name="Num342_isPowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num342_isPowerOfFour" />
-      <module name="A_String" />
+  <component name="RunManager" selected="Application.Num263_isUgly">
+    <configuration name="Num263_isUgly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num263_isUgly" />
+      <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num412_fizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num412_fizzBuzz" />
+    <configuration name="Num342_isPowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num342_isPowerOfFour" />
       <module name="A_String" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num263_isUgly" />
         <item itemvalue="Application.Num504_convertToBase7" />
         <item itemvalue="Application.Num342_isPowerOfFour" />
         <item itemvalue="Application.Num415_addStrings" />
         <item itemvalue="Application.Num506_findRelativeRanks" />
-        <item itemvalue="Application.Num412_fizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -156,20 +158,8 @@
       <workItem from="1668951814375" duration="2772000" />
       <workItem from="1668990185031" duration="1013000" />
       <workItem from="1669027378246" duration="5165000" />
-    </task>
-    <task id="LOCAL-00034" summary="info LeetCode : 剑指 Offer 17. 打印从1到最大的n位数">
-      <created>1667656301260</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1667656301260</updated>
-    </task>
-    <task id="LOCAL-00035" summary="info">
-      <created>1667656331845</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1667656331845</updated>
+      <workItem from="1669120295239" duration="165000" />
+      <workItem from="1669123900306" duration="1443000" />
     </task>
     <task id="LOCAL-00036" summary="info leetCode 13罗马数字转整数">
       <created>1667656388133</created>
@@ -500,7 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668990331596</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="info LeetCode :415. 字符串相加">
+      <created>1669120321082</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1669120321082</updated>
+    </task>
+    <task id="LOCAL-00084" summary="info LeetCode :28. 找出字符串中第一个匹配项的下标  KMP算法">
+      <created>1669120400119</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1669120400119</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,8 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info LeetCode :67. 二进制求和" />
-    <MESSAGE value="info LeetCode :141. 环形链表" />
     <MESSAGE value="info LeetCode ： 191. 位1的个数" />
     <MESSAGE value="info LeetCode ： 203. 移除链表元素" />
     <MESSAGE value="info LeetCode ：  237. 删除链表中的节点" />
@@ -543,7 +545,9 @@
     <MESSAGE value="info LeetCode :657. 机器人能否返回原点" />
     <MESSAGE value="info LeetCode :551. 学生出勤记录 I" />
     <MESSAGE value="info LeetCode :539. 最小时间差" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :539. 最小时间差" />
+    <MESSAGE value="info LeetCode :415. 字符串相加" />
+    <MESSAGE value="info LeetCode :28. 找出字符串中第一个匹配项的下标  KMP算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :28. 找出字符串中第一个匹配项的下标  KMP算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
