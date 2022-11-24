@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 342. 4的幂">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :328 3 的次幂">
       <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num328_isPowerOfThree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num43_multiply.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num504_convertToBase7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -157,13 +156,7 @@
       <workItem from="1669120295239" duration="165000" />
       <workItem from="1669123900306" duration="1443000" />
       <workItem from="1669203727921" duration="98000" />
-    </task>
-    <task id="LOCAL-00039" summary="info 318竞赛  class6229">
-      <created>1667726242589</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1667726242589</updated>
+      <workItem from="1669266996492" duration="104000" />
     </task>
     <task id="LOCAL-00040" summary="info 竞赛318  class6230 超时了">
       <created>1667726279198</created>
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669203802358</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="info LeetCode :328 3 的次幂">
+      <created>1669267028342</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1669267028342</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info LeetCode ：  205. 同构字符串" />
     <MESSAGE value="info LeetCode ：  169. 多数元素" />
     <MESSAGE value="info LeetCode ： 206. 反转链表" />
     <MESSAGE value="info LeetCode ： 217. 存在重复元素" />
@@ -544,7 +543,8 @@
     <MESSAGE value="info" />
     <MESSAGE value="info LeetCode : 263. 丑数" />
     <MESSAGE value="info LeetCode : 342. 4的幂" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 342. 4的幂" />
+    <MESSAGE value="info LeetCode :328 3 的次幂" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :328 3 的次幂" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
