@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :328 3 的次幂">
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 504. 七进制数">
       <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num258_addDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num461_hammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num476_findComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num477_totalHammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num693_hasAlternatingBits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num43_multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_String/src/Num504_convertToBase7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,49 +66,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num263_isUgly">
-    <configuration name="Num263_isUgly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num263_isUgly" />
+  <component name="RunManager" selected="Application.Num258_addDigits">
+    <configuration name="Num258_addDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num258_addDigits" />
       <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num342_isPowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num342_isPowerOfFour" />
-      <module name="A_String" />
+    <configuration name="Num461_hammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num461_hammingDistance" />
+      <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num415_addStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num415_addStrings" />
-      <module name="A_String" />
+    <configuration name="Num476_findComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num476_findComplement" />
+      <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num504_convertToBase7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num504_convertToBase7" />
-      <module name="A_String" />
+    <configuration name="Num477_totalHammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num477_totalHammingDistance" />
+      <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num506_findRelativeRanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num506_findRelativeRanks" />
-      <module name="A_String" />
+    <configuration name="Num693_hasAlternatingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num693_hasAlternatingBits" />
+      <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num263_isUgly" />
-        <item itemvalue="Application.Num504_convertToBase7" />
-        <item itemvalue="Application.Num342_isPowerOfFour" />
-        <item itemvalue="Application.Num415_addStrings" />
-        <item itemvalue="Application.Num506_findRelativeRanks" />
+        <item itemvalue="Application.Num258_addDigits" />
+        <item itemvalue="Application.Num693_hasAlternatingBits" />
+        <item itemvalue="Application.Num477_totalHammingDistance" />
+        <item itemvalue="Application.Num461_hammingDistance" />
+        <item itemvalue="Application.Num476_findComplement" />
       </list>
     </recent_temporary>
   </component>
@@ -156,14 +160,10 @@
       <workItem from="1669120295239" duration="165000" />
       <workItem from="1669123900306" duration="1443000" />
       <workItem from="1669203727921" duration="98000" />
-      <workItem from="1669266996492" duration="104000" />
-    </task>
-    <task id="LOCAL-00040" summary="info 竞赛318  class6230 超时了">
-      <created>1667726279198</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1667726279198</updated>
+      <workItem from="1669266996492" duration="4720000" />
+      <workItem from="1669277892209" duration="723000" />
+      <workItem from="1669298975549" duration="2000" />
+      <workItem from="1669347563003" duration="2000" />
     </task>
     <task id="LOCAL-00041" summary="info 竞赛318  118. 杨辉三角">
       <created>1667732267715</created>
@@ -501,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669267028342</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="info LeetCode : 504. 七进制数">
+      <created>1669267106031</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1669267106032</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info LeetCode ：  169. 多数元素" />
     <MESSAGE value="info LeetCode ： 206. 反转链表" />
     <MESSAGE value="info LeetCode ： 217. 存在重复元素" />
     <MESSAGE value="info LeetCode ： 169. 多数元素" />
@@ -544,7 +550,8 @@
     <MESSAGE value="info LeetCode : 263. 丑数" />
     <MESSAGE value="info LeetCode : 342. 4的幂" />
     <MESSAGE value="info LeetCode :328 3 的次幂" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :328 3 的次幂" />
+    <MESSAGE value="info LeetCode : 504. 七进制数" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 504. 七进制数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,6 +660,16 @@
           <url>file://$PROJECT_DIR$/A_String/src/Num415_addStrings.java</url>
           <line>12</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_NumAndBit/src/Num476_findComplement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_NumAndBit/src/Num477_totalHammingDistance.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
