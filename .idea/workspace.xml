@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode : 504. 七进制数">
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num258_addDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num461_hammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num476_findComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num477_totalHammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num693_hasAlternatingBits.java" afterDir="false" />
+    <list default="true" id="7f3ea6ee-d5bf-4c0b-b0f7-58adf7410d58" name="Changes" comment="info LeetCode :476. 数字的补数">
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num172_trailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num357_countNumbersWithUniqueDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num400_findNthDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_NumAndBit/src/Num405_toHex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A_String/src/Num43_multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,50 +44,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;
-  }
-}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num258_addDigits">
-    <configuration name="Num258_addDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num258_addDigits" />
+  <component name="RunManager" selected="应用程序.Num172_trailingZeroes">
+    <configuration name="Num172_trailingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num172_trailingZeroes" />
       <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num461_hammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num461_hammingDistance" />
+    <configuration name="Num357_countNumbersWithUniqueDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num357_countNumbersWithUniqueDigits" />
       <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num476_findComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num476_findComplement" />
+    <configuration name="Num400_findNthDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num400_findNthDigit" />
       <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num477_totalHammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Num477_totalHammingDistance" />
+    <configuration name="Num405_toHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num405_toHex" />
       <module name="A_NumAndBit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,15 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Num258_addDigits" />
-        <item itemvalue="Application.Num693_hasAlternatingBits" />
-        <item itemvalue="Application.Num477_totalHammingDistance" />
-        <item itemvalue="Application.Num461_hammingDistance" />
-        <item itemvalue="Application.Num476_findComplement" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -164,41 +149,10 @@
       <workItem from="1669277892209" duration="723000" />
       <workItem from="1669298975549" duration="2000" />
       <workItem from="1669347563003" duration="2000" />
-    </task>
-    <task id="LOCAL-00041" summary="info 竞赛318  118. 杨辉三角">
-      <created>1667732267715</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1667732267715</updated>
-    </task>
-    <task id="LOCAL-00042" summary="info leetCode :  118. 杨辉三角">
-      <created>1667736973739</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1667736973739</updated>
-    </task>
-    <task id="LOCAL-00043" summary="info leetCode :  118. 杨辉三角">
-      <created>1667737088253</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1667737088253</updated>
-    </task>
-    <task id="LOCAL-00044" summary="info leetCode :  118. 杨辉三角">
-      <created>1667737407426</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1667737407426</updated>
-    </task>
-    <task id="LOCAL-00045" summary="info leetCode :119. 杨辉三角 II">
-      <created>1667738777168</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1667738777168</updated>
+      <workItem from="1669389568231" duration="83000" />
+      <workItem from="1669452040938" duration="253000" />
+      <workItem from="1669515992963" duration="3693000" />
+      <workItem from="1669522728103" duration="979000" />
     </task>
     <task id="LOCAL-00046" summary="info leetCode : 419. 甲板上的战舰">
       <created>1667739608296</created>
@@ -508,7 +462,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669267106032</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="info LeetCode : 258. 各位相加">
+      <created>1669389585272</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1669389585272</updated>
+    </task>
+    <task id="LOCAL-00091" summary="info LeetCode : 477. 汉明距离总和">
+      <created>1669389631574</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1669389631575</updated>
+    </task>
+    <task id="LOCAL-00092" summary="info LeetCode : 461. 汉明距离">
+      <created>1669452052541</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1669452052541</updated>
+    </task>
+    <task id="LOCAL-00093" summary="info LeetCode : 693题">
+      <created>1669516016998</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1669516016998</updated>
+    </task>
+    <task id="LOCAL-00094" summary="info LeetCode :476. 数字的补数">
+      <created>1669516031877</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1669516031877</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,11 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info LeetCode ： 206. 反转链表" />
-    <MESSAGE value="info LeetCode ： 217. 存在重复元素" />
-    <MESSAGE value="info LeetCode ： 169. 多数元素" />
-    <MESSAGE value="info LeetCode ： 219. 存在重复元素 II" />
-    <MESSAGE value="info LeetCode ： 344. 反转字符串" />
     <MESSAGE value="info LeetCode ：541. 反转字符串 II" />
     <MESSAGE value="info LeetCode ：557. 反转字符串中的单词 III" />
     <MESSAGE value="info LeetCode ：151. 反转字符串中的单词" />
@@ -551,7 +535,12 @@
     <MESSAGE value="info LeetCode : 342. 4的幂" />
     <MESSAGE value="info LeetCode :328 3 的次幂" />
     <MESSAGE value="info LeetCode : 504. 七进制数" />
-    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode : 504. 七进制数" />
+    <MESSAGE value="info LeetCode : 258. 各位相加" />
+    <MESSAGE value="info LeetCode : 477. 汉明距离总和" />
+    <MESSAGE value="info LeetCode : 461. 汉明距离" />
+    <MESSAGE value="info LeetCode : 693题" />
+    <MESSAGE value="info LeetCode :476. 数字的补数" />
+    <option name="LAST_COMMIT_MESSAGE" value="info LeetCode :476. 数字的补数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -670,6 +659,11 @@
           <url>file://$PROJECT_DIR$/A_NumAndBit/src/Num477_totalHammingDistance.java</url>
           <line>12</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A_NumAndBit/src/Num357_countNumbersWithUniqueDigits.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
